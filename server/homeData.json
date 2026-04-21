@@ -1,0 +1,157 @@
+{
+  "banner": {
+    "title": "JUST DO THE WORK",
+    "subtitle": "Jordan Brand"
+  },
+  "heroMedia": [
+    {
+      "type": "video",
+      "src": "/hero.mp4"
+    },
+    {
+      "type": "image",
+      "src": "http://localhost:4000/uploads/1775623045965-970124.jpg",
+      "title": "",
+      "subtitle": ""
+    }
+  ],
+  "featured": {
+    "leftTitle": "Built For Champions",
+    "leftSubtitle": "Jordan Training",
+    "leftImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=900&q=85",
+    "rightTitle": "Refresh Your Sneaker Rotation",
+    "rightSubtitle": "Best Sellers",
+    "rightImage": "",
+    "rightImages": [
+      "http://localhost:4000/uploads/1775622909079-598122.jpg",
+      "http://localhost:4000/uploads/1775622913823-805458.jpg"
+    ]
+  },
+  "sections": [
+    {
+      "title": "Power For Every Run",
+      "subtitle": "Jordan Running",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=900&q=85",
+      "link": "/products?type=shoes"
+    },
+    {
+      "title": "Refresh Your Sneaker Rotation",
+      "subtitle": "Best Sellers",
+      "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=900&q=85",
+      "link": "/products?tag=best-sellers"
+    },
+    {
+      "title": "Athlete Picks",
+      "subtitle": "Jordan Brand",
+      "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=900&q=85",
+      "link": "/products"
+    },
+    {
+      "title": "Just Do the Work",
+      "subtitle": "Jordan Training",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=85",
+      "link": "/products?type=clothing"
+    }
+  ],
+  "spotlight": {
+    "title": "SPOTLIGHT",
+    "description": "Classic silhouettes and cutting-edge innovation to build your game from the ground up."
+  },
+  "spotlightItems": [
+    {
+      "label": "Air Jordan 1",
+      "q": "q=Air%20Jordan%201",
+      "image": ""
+    },
+    {
+      "label": "Air Jordan 4",
+      "q": "q=Air%20Jordan%204",
+      "image": ""
+    },
+    {
+      "label": "Graphic Tees",
+      "q": "q=Graphic%20Tee",
+      "image": ""
+    },
+    {
+      "label": "Hoodies",
+      "q": "q=Hoodie",
+      "image": ""
+    },
+    {
+      "label": "Tights",
+      "q": "q=Tight",
+      "image": ""
+    },
+    {
+      "label": "Backpacks",
+      "q": "q=Backpack",
+      "image": ""
+    },
+    {
+      "label": "Jackets",
+      "q": "q=Jacket",
+      "image": ""
+    },
+    {
+      "label": "Tracksuit",
+      "q": "q=Tracksuit",
+      "image": ""
+    },
+    {
+      "label": "Shorts",
+      "q": "q=Short",
+      "image": ""
+    },
+    {
+      "label": "Leggings",
+      "q": "q=Legging",
+      "image": ""
+    },
+    {
+      "label": "Socks",
+      "q": "q=Sock",
+      "image": ""
+    },
+    {
+      "label": "Caps",
+      "q": "q=Cap",
+      "image": ""
+    },
+    {
+      "label": "Jordan Tatum",
+      "q": "q=Tatum",
+      "image": ""
+    },
+    {
+      "label": "Sports Bras",
+      "q": "q=Sport%20Bra",
+      "image": ""
+    },
+    {
+      "label": "Duffel Bags",
+      "q": "q=Duffel",
+      "image": ""
+    },
+    {
+      "label": "T-Shirts",
+      "q": "q=Tee",
+      "image": ""
+    }
+  ],
+  "appBanner": {
+    "text": "IT'S BETTER ON THE JORDAN APP"
+  },
+  "bestAirJordan": {
+    "title": "Best of Air Jordan"
+  },
+  "shopByStyle": {
+    "title": "Shop By Style"
+  },
+  "essentials": {
+    "title": "The Essentials"
+  },
+  "gearUp": {
+    "title": "Gear Up"
+  }
+}
